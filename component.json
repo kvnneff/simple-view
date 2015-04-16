@@ -1,0 +1,22 @@
+{
+  "name": "simple-view",
+  "version": "1.0.0",
+  "description": "Render templates using html data attributes",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "JayceTDE/dom-contains": "master",
+    "anthonyshort/dom-walk": "0.1.0",
+    "component/assert": "0.5.0",
+    "component/classes": "1.2.3",
+    "component/domify": "1.3.1",
+    "component/indexof": "0.0.3",
+    "component/stack": "0.0.1",
+    "defunctzombie/carry": "0.0.2",
+    "jkroso/equals": "1.0.0",
+    "jkroso/type": "1.1.0",
+    "timoxley/to-array": "0.2.1",
+    "yields/fmt": "0.0.2",
+    "yields/uniq": "1.0.0"
+  }
+}
